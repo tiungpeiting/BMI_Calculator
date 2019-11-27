@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight">Weight:</string>
+    <string name="height_meter">Height(meter):</string>
+    <string name="calculate">Calculate</string>
+    <string name="bmi">BMI:</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="bmi_result">BMI_result</string>
+    <string name="reset">Reset</string>
+</resources>
